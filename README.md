@@ -30,6 +30,11 @@ This project models and analyzes Airbnb data using dbt. The pipeline transforms 
 ## 📊 Dashboard Overview
 
 🔗 [Click here to explore the interactive dashboard](https://040c4d1e.us2a.app.preset.io/superset/dashboard/p/qbkBWBbWpPV/)
+![Dashboard Demo](assets/dashboard.gif)
+
+The dashboard is organized into three sections:
+...
+
 
 The dashboard is organized into three sections:
 
