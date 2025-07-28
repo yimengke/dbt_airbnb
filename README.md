@@ -50,4 +50,4 @@ The dashboard is organized into three sections:
 
 1. Clone this repo  
    ```bash
-   git clone git clone https://github.com/yimengke/dbt_airbnb.git
+git clone https://github.com/yimengke/dbt_airbnb.git
