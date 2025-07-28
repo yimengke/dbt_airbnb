@@ -29,6 +29,8 @@ This project models and analyzes Airbnb data using dbt. The pipeline transforms 
 
 ## 📊 Dashboard Overview
 
+🔗 [Click here to explore the interactive dashboard](https://040c4d1e.us2a.app.preset.io/superset/dashboard/p/qbkBWBbWpPV/)
+
 The dashboard is organized into three sections:
 
 ### 1. Hosts
@@ -48,4 +50,4 @@ The dashboard is organized into three sections:
 
 1. Clone this repo  
    ```bash
-   git clone https://github.com/yourname/dbt_airbnb.git
+   git clone git clone https://github.com/yimengke/dbt_airbnb.git
