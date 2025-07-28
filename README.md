@@ -2,7 +2,8 @@
 
 This project analyzes Airbnb listings, hosts, and reviews using a modern data stack with **dbt** for transformation and **Preset (Superset)** for visualization.
 
-![Dashboard Screenshot](assets/lineage_graph.png) try
+![Lineage Graph](https://github.com/yimengke/dbt_airbnb/raw/main/dbtlearn/assets/lineage_graph.png)
+
 
 
 ## 🔧 Project Structure
