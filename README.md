@@ -2,6 +2,7 @@
 
 This project analyzes Airbnb listings, hosts, and reviews using a modern data stack with **dbt** for transformation and **Preset (Superset)** for visualization.
 
+This project models and analyzes Airbnb data using dbt. The pipeline transforms raw data into a structured data warehouse through multiple layers including staging, dimensional modeling, and reporting. The final data is visualized in an executive dashboard built with Preset (Apache Superset). The diagram below illustrates the full data lineage from raw sources to dashboards:
 ![Lineage Graph](https://github.com/yimengke/dbt_airbnb/raw/main/dbtlearn/assets/lineage_graph.png)
 
 
