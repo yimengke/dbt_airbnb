@@ -49,5 +49,4 @@ The dashboard is organized into three sections:
 ## 🚀 How to Run Locally
 
 1. Clone this repo  
-   ```bash
-git clone https://github.com/yimengke/dbt_airbnb.git
+   ```bash git clone https://github.com/yimengke/dbt_airbnb.git
