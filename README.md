@@ -11,8 +11,8 @@ The pipeline transforms raw Airbnb data into a structured analytics layer throug
 ## 🔧 Project Structure
 
 - **models/**  
-  dbt models for staging, transformation, and mart layers
-
+  dbt models for staging layer, dimensional data warehouse layer, and report layers with merged tables
+  
 - **seeds/**  
   Seed data (e.g., full moon calendar)
 
