@@ -6,6 +6,11 @@ The pipeline transforms raw Airbnb data into a structured analytics layer throug
  The diagram below illustrates the full data lineage from raw sources to dashboards:
 ![Lineage Graph](https://github.com/yimengke/dbt_airbnb/raw/main/dbtlearn/assets/lineage_graph.png)
 
+## 🔧 Imput Data Entity Relationship Diagram
+
+Below is the overview of the input data for my project.
+![Lineage Graph](https://github.com/yimengke/dbt_airbnb/raw/main/dbtlearn/assets/ERD.jpg)
+
 
 
 ## 🔧 Project Structure
